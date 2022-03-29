@@ -32,11 +32,11 @@ input.search-bar {
   color:  white;
   border: none;
   outline:  none;
-  padding: .5em 1em;
+  padding: .4em 1em;
   border-radius: 24px;
   background: #7c7c7c2b;
   font-family: inherit;
-  font-size: 120%;
+  font-size: 105%;
   width: calc(100% - 100px);
 }
 
@@ -44,8 +44,8 @@ button {
   margin: .5em;
   border-radius: 50%;
   border: none;
-  height: 46px;
-  width: 46px;
+  height: 44px;
+  width: 44px;
   background: #7c7c7c2b;
   color: white;
 }
